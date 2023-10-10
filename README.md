@@ -44,7 +44,7 @@ This project focuses on gathering weather data for cities in Germany using vario
 ## Prerequisites
 - Python 3.x
 - Libraries: `requests`, `beautifulsoup4`, `pandas`, `unidecode`, `sqlite3`
-- API key from [OpenWeatherMap API](https://openweathermap.org/api)
+- API key from [OpenWeatherMap](https://openweathermap.org/api)
 
 ## Acknowledgments
 
